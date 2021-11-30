@@ -1,7 +1,7 @@
 {
-  "name": "LordUserbot",
+  "name": "Agamz-Bot",
   "version": "4.5.0",
-  "description": "WhatsApp bot",
+  "description": "AgamzBot BY @Agamzxzy",
   "main": "main.js",
   "directories": {
     "lib": "lib"
