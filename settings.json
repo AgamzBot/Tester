@@ -1,5 +1,5 @@
 {
-    "self_mode": falae,
+    "self_mode": false,
     "anti_delete": true,
     "anti_call": true,
     "autorespon": true,
